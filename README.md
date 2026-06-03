@@ -27,7 +27,7 @@ Click the links below to navigate through the project phases:
 ## 📊 Dashboard Preview
 Below is a snapshot of the interactive dashboard built to visualize these metrics:
 
-![Customer Behavior Dashboard](Screenshot%202026-06-01%20213454.png)
+![Customer Behavior Dashboard](./dashboard_img.png)
 
 ---
 
